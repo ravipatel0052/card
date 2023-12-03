@@ -118,10 +118,10 @@
     }
 
     .p4{
+        margin: 10px;
         text-align: center;
         color:  gold;
         font-size: 55%; 
-        margin: 3px;
     }
 
     .p5{
@@ -152,7 +152,6 @@
         background-size:cover;
         display: block;
         width: 60%;
-        padding: 15px 0px;
         border-radius: 0% 0% 30% 0%;
     }
 
@@ -170,12 +169,11 @@
     .f{
         display: flex;
         justify-content: space-around;
-        
     }
 
     .x{
         width: 44%;
-        padding-top: 6%;
+        padding-top: 5%;
     }
     .y{
         width: 30%;
