@@ -121,7 +121,7 @@
         text-align: center;
         color:  gold;
         font-size: 55%; 
-        margin: 10px;
+        margin: 3px;
     }
 
     .p5{
@@ -152,7 +152,7 @@
         background-size:cover;
         display: block;
         width: 60%;
-        padding: 20px 0px;
+        padding: 15px 0px;
         border-radius: 0% 0% 30% 0%;
     }
 
@@ -170,7 +170,7 @@
     .f{
         display: flex;
         justify-content: space-around;
-        margin-top: 1%;
+        
     }
 
     .x{
