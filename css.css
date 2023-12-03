@@ -1,0 +1,168 @@
+@media only screen and (min-width: 950px)
+{
+    
+}
+@media only screen and (max-width: 950px)
+{
+    .bg{
+        background-color:rgb(255, 187, 0); 
+        width: 100vw;
+        padding: 2%;
+    }
+
+    .page{
+        background-color: rgb(249, 5, 5);
+        padding: 2%;
+        margin-bottom: 4%;
+        font-size: 6.7vw;
+        height: 100vh; 
+        width: 95vw;
+    }
+
+    img{
+        width: 100%;
+    }
+
+                   
+    .typed{
+        color: rgb(247, 168, 70);
+        font-size: 100%;
+        text-align: center;
+    }
+
+    
+
+    .glow {
+        animation: glow 2s ease-in-out infinite alternate;
+        color: rgb(247, 168, 70);
+        text-align: center;
+        font-size: 90%;
+        margin: 0%;
+    }
+
+    @keyframes glow {
+        from {
+            text-shadow:  0 0 10px green, 0 0 20px #7ef311, 0 0 30px #00e61b, 0 0 40px #00e6d3, 0 0 50px #e600db, 0 0 60px #e60073, 0 0 70px #e60073;
+        }
+  
+        to{
+            text-shadow: 0 0 40px blue, 0 0 30px #4d94ff, 0 0 40px #d54dff, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+        }
+    }
+
+    .card{
+        background-color: gold;
+        border-radius: 50%;
+        width: 50%;
+        padding: 2%;
+        margin: 2%;
+    }
+        
+    .a1{  
+        width: 30%;
+        margin:0% auto ;
+    }
+
+    .b{
+        height: 20%;  
+        width: 80%;
+        margin:0% 10% ;
+    }
+
+    #c1{
+        display:flex;
+        justify-content: space-around;
+    }
+
+    #c2{
+        display:flex;
+        justify-content: space-around;
+    }
+
+    .c3{
+        background-color: gold;
+        border-radius: 10%;
+        width: 70%;
+        padding: 2%;
+        margin: 2% auto; 
+    }
+
+    .c3>.h2{
+        margin-top: 0.5%;
+    }
+
+    .h2{
+        text-align: center;
+        color: #710808;
+        font-size: 80%; 
+        margin-bottom: 0.5%;
+    }
+
+    .h3{
+        text-align: right;
+        color: #710808;
+        font-size: 60%; 
+        margin-bottom: 0.5%;
+        margin-top: 0%;
+    }
+
+    .p2{
+        text-align: center;
+        color: #710808;
+        font-size: 60%; 
+        margin: 0%;
+        padding: 0%;
+    }
+
+    .p3{
+        text-align: center;
+        color: gold;
+        font-size: 70%; 
+        margin-bottom: 0%;
+    }
+
+    .p4{
+        text-align: center;
+        color:  gold;
+        font-size: 55%; 
+    }
+
+    .p5{
+        color: gold;
+        font-size: 45%; 
+        margin: 0%;
+        text-align: center;
+    }
+
+    .n1{
+        color: brown;
+        font-size: 80%; 
+    }
+
+    .n1>p{
+        margin: 0.3%;
+    }
+
+    .maa{
+        height: auto;  
+        width: 30%;
+        margin:0% auto ;
+    }
+
+    .bgi{
+        background-image: url(./image/bg1.jpg);
+        background-size:cover;
+    }
+ 
+    .end{
+        display:flex;
+        justify-content:space-around;
+    }
+
+    .icon{
+        height: 3vw;
+        width: 3vw;
+        margin-bottom: 0%;
+    }
+
+}
