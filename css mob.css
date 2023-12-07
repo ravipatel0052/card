@@ -52,38 +52,6 @@
         width: 50%;
         padding: 2%;
         margin: 2%;
-        text-align: center;
-        position: relative;
-        transform-style: preserve-3d;
-        transition: all 0.5s ease;
-        
-    }
-    
-    .card:hover{
-        transform: rotateY(180deg);
-    }
-    .front{
-        position:absolute;
-        margin:0 25px;
-        backface-visibility: hidden;
-        text-align: end;
-    }
-    .back{
-        position:relative;
-        backface-visibility: hidden;
-        transform:rotateY(180deg);
-    }
-    .mt{
-        width: 40%;
-    } 
-    .we{
-        width: 50%;
-    }
-    .do{
-        width: 70%;
-    }
-    #t{
-        margin:0 50px;
     }
         
     .a1{  
