@@ -2,8 +2,8 @@
 {
     .bg{
         background-color: burlywood;
-        width: 100vw;
-        padding: 2%;
+        width: 100%;
+        padding: 2.5%;
     }
 
     .page{
@@ -11,7 +11,7 @@
         padding: 2%;
         margin-bottom: 4%;
         font-size: 6.7vw;
-        height: 100vh; 
+        height: 95vh; 
         width: 95vw;
     }
 
