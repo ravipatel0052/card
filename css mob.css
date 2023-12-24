@@ -2,7 +2,6 @@
 {
     .bg{
         background-color: burlywood;
-        
         padding: 2%;
     }
 
@@ -11,8 +10,8 @@
         padding: 2%;
         margin-bottom: 4%;
         font-size: 6.7vw;
-        height: 95vh; 
-        width: 95vw;
+        height: 90vh; 
+        width: 90vw;
     }
 
     img{
